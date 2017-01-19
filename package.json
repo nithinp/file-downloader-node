@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/nithinp/file-downloader-node/issues"
   },
-  "homepage": "https://github.com/nithinp/file-downloader-node#readme"
+  "homepage": "https://github.com/nithinp/file-downloader-node#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0"
+  }
 }
